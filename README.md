@@ -10,5 +10,5 @@ I also have a first class master's degree in Chemical Engineering from the Unive
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/)
 - 😄 Pronouns: He/Him
 
-[![Angaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Angaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=angaar96)](https://github.com/anuraghazra/github-readme-stats)
 
