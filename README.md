@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is ✨Angaar ✨. I'm currently training to be a full stack developer at _ nology. 
 
