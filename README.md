@@ -6,7 +6,7 @@
 <br> 
 <ul align="center"> 
 <li style="text-align: left;"> 🔭 My current skills include JavaScript (ES6), Python 3, Git, HTML 5, CSS/SCSS (Sass), CDN's, SQLite3. </li>
-- 🌱 I’m currently learning React and Java.<br>
+  <li style="text-align: left;"> 🌱 I’m currently learning React and Java. </li> 
 - 👯 I'm comfortable with collaboration and individual work. I'm currently working with an Agile team.<br>    
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/)<br> 
 - 😄 Pronouns: He/Him
