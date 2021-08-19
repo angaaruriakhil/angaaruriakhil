@@ -4,7 +4,7 @@
 
 <p align="center"> I also have a first class master's degree in Chemical Engineering from the University of Surrey. </p> 
 <br> 
-<div align="center"> 
+<div align="center" style="text-align: left;"> 
 - 🔭 My current skills include JavaScript (ES6), Python 3, Git, HTML 5, CSS/SCSS (Sass), CDN's, SQLite3.<br> 
 - 🌱 I’m currently learning React and Java.<br>
 - 👯 I'm comfortable with collaboration and individual work. I'm currently working with an Agile team.<br>    
