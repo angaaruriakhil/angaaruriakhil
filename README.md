@@ -1,5 +1,4 @@
 <h1 align="center">  Hi there! 👋 </h1> 
-
 <p align="center"> My name is ✨Angaar ✨. I'm currently training to be a full stack developer at _nology. </p>
 
 <p align="center"> I also have a first class master's degree in Chemical Engineering from the University of Surrey. </p> 
