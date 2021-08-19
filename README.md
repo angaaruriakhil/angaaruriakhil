@@ -1,4 +1,4 @@
-<p align="center" style="color:red; font-size:50px;">  Hi there 👋 </p> 
+<h1 align="center" style="color:red; font-size:50px;">  Hi there 👋 </h1> 
 
 My name is ✨Angaar ✨. I'm currently training to be a full stack developer at _ nology. 
 
