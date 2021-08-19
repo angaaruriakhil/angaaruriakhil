@@ -1,4 +1,4 @@
-# Hi there 👋
+<p align="center">  # Hi there 👋 </p> 
 
 My name is ✨Angaar ✨. I'm currently training to be a full stack developer at _ nology. 
 
