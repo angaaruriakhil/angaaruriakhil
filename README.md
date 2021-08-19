@@ -11,9 +11,7 @@
  <p> 📫 How to reach me: <strong> <a href="https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/"> LinkedIn </a></strong> </p> 
  <p> 😄 Pronouns: He/Him </p>
 </div> 
-
-
-
+--- 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=angaar96&show_icons=true&theme=tokyonight"/>
