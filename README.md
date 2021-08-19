@@ -1,4 +1,4 @@
-<p align="center">  # Hi there 👋 </p> 
+<p align="center" font-size = "50px">  Hi there 👋 </p> 
 
 My name is ✨Angaar ✨. I'm currently training to be a full stack developer at _ nology. 
 
