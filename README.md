@@ -9,3 +9,5 @@ I also have a first class master's degree in Chemical Engineering from the Unive
 - 👯 I'm comfortable with collaboration and individual work. I'm currently working with an Agile team.   
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/)
 - 😄 Pronouns: He/Him
+
+[Link](https://www.github.com/angaar96)
