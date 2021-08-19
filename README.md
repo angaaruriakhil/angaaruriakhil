@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is ✨Angaar ✨. I'm currently training to be a full stack developer at _ nology. 
+
 I also have a first class master's degree in Chemical Engineering from the University of Surrey. 
 
 - 🔭 My current skills include JavaScript, Python, Git, HTML, CSS/SCSS (Sass). 
