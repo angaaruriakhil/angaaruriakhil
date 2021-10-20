@@ -5,7 +5,7 @@
 <div align="center"> 
  <p> 🔭 My current skills include <strong> Java (inc. Spring Boot), JavaScript (ES6), React, Python 3, Git, HTML 5, CSS/SCSS (Sass), MySQL, Jest, Cypress, React Testing Library.</strong> </p>
  <p> 👯 I'm comfortable with both collaboration and individual work. I'm currently working with an Agile team.</p>    
- <p> 🌱 I’m currently learning <strong> Typescript </strong> </p>
+ <p> 🌱 I’m currently learning <strong> Typescript. </strong> </p>
  <p> 📫 How to reach me: <strong> <a href="https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/"> LinkedIn </a></strong> </p> 
  <p> 😄 Pronouns: He/Him </p>
 </div> 
