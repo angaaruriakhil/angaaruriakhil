@@ -1,7 +1,6 @@
 <h1 align="center">  Hi there! 👋 </h1> 
 <p align="center"> My name is ✨Angaar ✨. I'm a graduate of a 12 week software development course at _nology. </p>
 <p align="center"> I also have a first class master's degree in Chemical Engineering from the University of Surrey. </p> 
-<br> 
 <div align="center"> 
  <p> 🔭 My current skills include <strong> Java (inc. Spring Boot), JavaScript (ES6), React, Python 3, Git, HTML 5, CSS/SCSS (Sass), MySQL, Jest, Cypress, React Testing Library.</strong> </p>
  <p> 👯 I'm comfortable with both collaboration and individual work. I'm currently working with an Agile team.</p>    
