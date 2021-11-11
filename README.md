@@ -1,4 +1,4 @@
-<h1 align="center">  Hi there! 👋 </h1> 
+<h1 align="center">  Hello ! 👋 </h1> 
 <p align="center"> My name is ✨Angaar ✨. I'm a graduate of a 12 week coding bootcamp at _nology. </p>
 <p align="center"> I also have a first class master's degree in Chemical Engineering from the University of Surrey. </p> 
 <div align="center"> 
