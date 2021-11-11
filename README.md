@@ -1,11 +1,35 @@
-<h1 align="center">  Hello ! 👋 </h1> 
-<p align="center"> My name is ✨Angaar ✨. I'm a graduate of a 12 week coding bootcamp at _nology. I also have a first class master's degree in Chemical Engineering from the University of Surrey. </p> 
-<div align="center"> 
- <p> 🔭 My current skills include <strong> Java (inc. Spring Boot), JavaScript (ES6), React, Python 3, Git, HTML 5, CSS/SCSS (Sass), MySQL, Jest, Cypress, React Testing Library.</strong> </p>
- <p> 👯 I'm comfortable with both collaboration and individual work. I'm currently working with an Agile team.</p>    
+<h1 align="center">  Hi, I'm Angaar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1> 
+<p> I'm a full stack developer based in London, England. </p>
+<p> I completed a coding bootcamp at _nology and studied Chemical Engineering at the University of Surrey. 
+
+ <div align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+    <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+    <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" /> 
+    <img src = "https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> 
+    <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+    <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
+    <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/> 
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+    <img src ="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> 
+    
+</div>
+ <p> 👯 I'm comfortable with both collaboration and individual work. I've previously worked in an Agile team.</p>    
  <p> 🌱 I’m currently learning <strong> Typescript. </strong> </p>
- <p> 📫 How to reach me: <strong> <a href="https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/"> LinkedIn </a></strong> </p> 
- <p> 😄 Pronouns: He/Him </p>
+ <p> 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Angaar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/)</p> 
+ <p>
+ 😄 Pronouns: He/Him </p>
 </div> 
 
 --- 
