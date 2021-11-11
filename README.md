@@ -1,6 +1,11 @@
 <h1 align="center">  Hi, I'm Angaar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1> 
 <p> I'm a full stack developer based in London, England. </p>
 <p> I completed a coding bootcamp at _nology and studied for a masters in Chemical Engineering at the University of Surrey. 
+<p> 👯 I'm comfortable with both collaboration and individual work. I've previously worked in an Agile team.</p>    
+<p> 🌱 I’m currently learning <strong> Typescript. </strong> </p>
+<p> 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Angaar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/)</p> 
+<p>
+😄 Pronouns: He/Him </p>
 <h2 align="center"> Tech Stack: </h2> 
  <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -22,12 +27,6 @@
     <img src ="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/> 
 
 </div>
- <p> 👯 I'm comfortable with both collaboration and individual work. I've previously worked in an Agile team.</p>    
- <p> 🌱 I’m currently learning <strong> Typescript. </strong> </p>
- <p> 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Angaar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/)</p> 
- <p>
- 😄 Pronouns: He/Him </p>
-</div> 
 
 --- 
 
