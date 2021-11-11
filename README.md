@@ -3,7 +3,7 @@
 <p> :man_student: I completed a coding bootcamp at _nology and studied for a masters in Chemical Engineering at the University of Surrey. 
 <p> 👯 I'm comfortable with both collaboration and individual work. I've previously worked in an Agile team.</p>    
 <p> 🌱 I’m currently learning <strong> Typescript. </strong> </p>
-<p> 😄 Pronouns: He/Him </p>
+<p> 😄 Pronouns: He/Him. </p>
 <p> :email: [![Linkedin Badge](https://img.shields.io/badge/Angaar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/) </p> 
 <h2 align="center"> Tech Stack: </h2> 
  <div align="center">
