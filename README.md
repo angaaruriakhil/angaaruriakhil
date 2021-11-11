@@ -31,5 +31,5 @@
 </a>
 </p> 
 
-<p> [![Linkedin Badge](https://img.shields.io/badge/Angaar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/) </p> 
+[![Linkedin Badge](https://img.shields.io/badge/Angaar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/)
 
