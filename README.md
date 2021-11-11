@@ -4,7 +4,7 @@
 <p> 👯 I'm comfortable with both collaboration and individual work. I've previously worked in an Agile team.</p>    
 <p> 🌱 I’m currently learning <strong> TypeScript. </strong> </p>
 <p> :male_sign: Pronouns: He/Him. </p>
-<p align="right"> <a href = "https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/" target = "_blank"> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> 
+<p> <a href = "https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/" target = "_blank"> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> 
 <h3 align="center"> Tech Stack: </h3> 
  <div align="center">
     <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
