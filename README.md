@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
     <img src ="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/> 
 </div>
+---
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
