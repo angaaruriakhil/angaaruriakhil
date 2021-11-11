@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
     <img src ="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/> 
 </div>
-<p> [![Linkedin Badge](https://img.shields.io/badge/Angaar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/) </p> 
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,4 +31,5 @@
 </a>
 </p> 
 
+<p> [![Linkedin Badge](https://img.shields.io/badge/Angaar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/) </p> 
 
