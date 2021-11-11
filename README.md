@@ -4,7 +4,7 @@
 <p> 👯 I'm comfortable with both collaboration and individual work. I've previously worked in an Agile team.</p>    
 <p> 🌱 I’m currently learning <strong> TypeScript. </strong> </p>
 <p> :male_sign: Pronouns: He/Him. </p>
-<h3 align="center"> Tech Stack: </h3> 
+<h3 align="center" padding="0" margin="0"> Tech Stack: </h3> 
  <div align="center">
     <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
