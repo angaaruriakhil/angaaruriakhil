@@ -2,7 +2,7 @@
 <p> I'm a full stack developer based in London, England. </p>
 <p> I completed a coding bootcamp at _nology and studied Chemical Engineering at the University of Surrey. 
 
- <div align="center">
+ <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
     <img src ="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/> 
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> 
-    
 </div>
  <p> 👯 I'm comfortable with both collaboration and individual work. I've previously worked in an Agile team.</p>    
  <p> 🌱 I’m currently learning <strong> Typescript. </strong> </p>
