@@ -2,8 +2,8 @@
 <p> :desktop_computer:	I'm a full stack developer based in London, England. </p>
 <p> :man_student: I've completed a coding bootcamp at _nology and studied for a masters in Chemical Engineering at the University of Surrey. </p>    
 <p> 🌱 I’m currently learning <strong> TypeScript. </strong> </p>
-<a href = "https://www.angaaruriakhil.com" target = "_blank"> :notebook: Personal Portfolio </a><br>
-<a href = "https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/" target = "_blank"> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<p> <a href = "https://www.angaaruriakhil.com" target = "_blank"> :notebook: Personal Portfolio </a> </p> 
+<p> <a href = "https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/" target = "_blank"> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> 
 <h3 align="center"> Tech Stack: </h3> 
  <div align="center">
     <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
