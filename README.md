@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm Angaar (:male_sign: He/Him) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="21px" alt="hi"> </h2> 
+<h2 align="center"> Hi, I'm Angaar (:male_sign: He/Him) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5px" alt="hi"> </h2> 
 <p> :desktop_computer:	I'm a full stack developer based in London, England. </p>
 <p> :man_student: I've completed a coding bootcamp at _nology and studied for a masters in Chemical Engineering at the University of Surrey. </p>    
 <p> 🌱 I’m currently learning <strong> TypeScript </strong> and <strong> Node.js. </strong> </p>
