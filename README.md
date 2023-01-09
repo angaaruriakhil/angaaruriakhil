@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Angaar (:male_sign: He/Him) </h2> 
-<p> :desktop_computer:	I'm a DevOps Engineer based in  the UK. </p>
+<p> :desktop_computer:	I'm a Platform Engineer based in  the UK. </p>
 <p> :man_student: I've completed a coding bootcamp at _nology and studied for a masters in Chemical Engineering at the University of Surrey. </p>    
 <!--- <p> 🌱 I’m currently learning <strong> TypeScript </strong> and <strong> Node.js. </strong> </p> ---> 
 <p> <a href = "https://www.angaaruriakhil.com" target = "_blank"> :notebook: Personal Portfolio </a> </p> 
