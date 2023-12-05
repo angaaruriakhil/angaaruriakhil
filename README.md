@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm Angaar (He/Him) </h2> 
+<h2 align="center"> Hi, I'm Angaar </h2> 
 <p> :desktop_computer:	I'm a Platform Engineer based in  the UK. </p>
 <p> :man_student: I've completed a coding bootcamp at _nology and studied for a masters in Chemical Engineering at the University of Surrey. </p>    
 <!--- <p> 🌱 I’m currently learning <strong> TypeScript </strong> and <strong> Node.js. </strong> </p> ---> 
