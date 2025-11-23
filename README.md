@@ -12,7 +12,7 @@ You can learn more about me and my work here:
 
 ---
 
-## 🔗 Connect with me
+## 🤝 Connect With Me!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angaar-uriakhil-1723a71b4/)
 
